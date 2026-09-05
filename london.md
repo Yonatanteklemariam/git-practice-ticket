@@ -2,4 +2,4 @@ My community is called London and the regular Saturday classes are regularly hel
 ITP - Introduction to Programming
 Senay Cafe
 London is extremely crowded on a daily basis and an amazing hub for recreation and fun.
-![London image](C:\Users\almzj\CYF\git-practice-ticket\london.webp)
+![London image](https://github.com/Yonatanteklemariam/git-practice-ticket/blob/git-practice-ticket/london.webp)
